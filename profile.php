@@ -7,7 +7,7 @@ header("location: index.php"); // Redirecting To Home Page
 <!DOCTYPE html>
 <html>
 <head>
-<title>Your Home Page</title>
+<title>Testing Page</title>
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
