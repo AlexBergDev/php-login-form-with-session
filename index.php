@@ -7,7 +7,7 @@ header("location: profile.php"); // Redirecting To Profile Page
 <!DOCTYPE html>
 <html>
 <head>
-<title>Login Form in PHP with Session</title>
+<title>Test Login Form in PHP w/ Session</title>
 <link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
